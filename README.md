@@ -12,9 +12,12 @@ sudo ln -s $(pwd)/target/release/rustki /usr/local/bin/rustki
 ## Использование:
 Запустить тренажер
 ```rustki```
+
 Добавить слово
 ```rustki add <слово на сербском> <перевод>```
+
 Удалить слово
 ```rustki remove <слово на сербском>```
+
 Очистить все данные
 ```rustki clear```
